@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* solo deja configuraciones globales simples */
+body {
+  @apply min-h-screen font-sans text-slate-900;
+}
