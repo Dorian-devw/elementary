@@ -2,7 +2,7 @@
 
 Una **Pokédex moderna e interactiva** desarrollada con **React + Vite** y **TailwindCSS**, que consume la [PokéAPI](https://pokeapi.co/) para mostrar información de los Pokémon de forma dinámica, ordenada y visualmente atractiva.
 
-![Vista previa de la Pokédex](./src/assets/preview.png)
+![Vista previa de la Pokédex](<img width="387" height="140" alt="pokelogo" src="https://github.com/user-attachments/assets/0e373f29-6b19-4b3e-8872-61dacab15f5a" />)
 
 ---
 
