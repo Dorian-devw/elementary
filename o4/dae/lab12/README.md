@@ -2,7 +2,8 @@
 
 Una **Pokédex moderna e interactiva** desarrollada con **React + Vite** y **TailwindCSS**, que consume la [PokéAPI](https://pokeapi.co/) para mostrar información de los Pokémon de forma dinámica, ordenada y visualmente atractiva.
 
-![Vista previa de la Pokédex](<img width="387" height="140" alt="pokelogo" src="https://github.com/user-attachments/assets/0e373f29-6b19-4b3e-8872-61dacab15f5a" />)
+
+[Vista previa de la Pokédex](https://pokeapi.co)
 
 ---
 
@@ -100,10 +101,12 @@ poke-lab12/
 
 
 
-```markdown
-![Pokédex Interactiva](<img width="975" height="402" alt="image" src="https://github.com/user-attachments/assets/a7ffa5ad-898c-489e-8441-a2b60932dd99" />
+
+[Pokédex Interactiva](<img width="975" height="402" alt="image" src="https://github.com/user-attachments/assets/7e4d1671-848d-44db-bd63-b4971d9aadd8" />
 )
-<img width="975" height="451" alt="image" src="https://github.com/user-attachments/assets/9da34db6-6667-46e5-96c6-6dfabaf12cec" />
+
+[Filtro por tipo](<img width="975" height="451" alt="image" src="https://github.com/user-attachments/assets/11f40c0f-1ad5-460b-92db-11f822f98102" />
+)
 
 <img width="975" height="425" alt="image" src="https://github.com/user-attachments/assets/8469f638-eaf1-4a43-b480-8c2fd09ccddb" />
 
@@ -111,7 +114,7 @@ poke-lab12/
 
 <img width="975" height="460" alt="image" src="https://github.com/user-attachments/assets/53ad57ce-6e27-46a3-8bf1-205002bbed33" />
 
-```
+
 
 ---
 
