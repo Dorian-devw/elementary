@@ -102,11 +102,11 @@ poke-lab12/
 
 
 
-[Pokédex Interactiva](<img width="975" height="402" alt="image" src="https://github.com/user-attachments/assets/7e4d1671-848d-44db-bd63-b4971d9aadd8" />
-)
+<img width="975" height="402" alt="image" src="https://github.com/user-attachments/assets/7e4d1671-848d-44db-bd63-b4971d9aadd8" />
 
-[Filtro por tipo](<img width="975" height="451" alt="image" src="https://github.com/user-attachments/assets/11f40c0f-1ad5-460b-92db-11f822f98102" />
-)
+
+<img width="975" height="451" alt="image" src="https://github.com/user-attachments/assets/11f40c0f-1ad5-460b-92db-11f822f98102" />
+
 
 <img width="975" height="425" alt="image" src="https://github.com/user-attachments/assets/8469f638-eaf1-4a43-b480-8c2fd09ccddb" />
 
