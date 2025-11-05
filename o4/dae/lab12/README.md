@@ -98,11 +98,19 @@ poke-lab12/
 
 ## 🌈 Capturas recomendadas
 
-Coloca una imagen en `src/assets/preview.png` con tu mejor captura,  
-por ejemplo mostrando los primeros Pokémon con el logo visible.
+
 
 ```markdown
-![Pokédex Interactiva](./src/assets/preview.png)
+![Pokédex Interactiva](<img width="975" height="402" alt="image" src="https://github.com/user-attachments/assets/a7ffa5ad-898c-489e-8441-a2b60932dd99" />
+)
+<img width="975" height="451" alt="image" src="https://github.com/user-attachments/assets/9da34db6-6667-46e5-96c6-6dfabaf12cec" />
+
+<img width="975" height="425" alt="image" src="https://github.com/user-attachments/assets/8469f638-eaf1-4a43-b480-8c2fd09ccddb" />
+
+<img width="975" height="431" alt="image" src="https://github.com/user-attachments/assets/30d57236-8c51-4fad-a56d-8d2a2986bc39" />
+
+<img width="975" height="460" alt="image" src="https://github.com/user-attachments/assets/53ad57ce-6e27-46a3-8bf1-205002bbed33" />
+
 ```
 
 ---
@@ -119,7 +127,7 @@ por ejemplo mostrando los primeros Pokémon con el logo visible.
 
 ## 👨‍💻 Autor
 
-Desarrollado con ❤️ por **Dorian Sinca**  
+Desarrollado con ❤️ por **Frank Sinca**  
 📍 Perú — Estudiante de Diseño y Desarrollo de Software en **TECSUP**
 
 Si te gustó este proyecto, no olvides dejar ⭐ en el repositorio :)
